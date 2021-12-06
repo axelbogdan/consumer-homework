@@ -1,0 +1,10 @@
+.bookContainer {
+    display: flex;
+    column-gap: 20px;
+    margin: 10px;
+    border-bottom: 1px solid black;
+}
+
+.leftColumn {
+    width: 8%;
+}

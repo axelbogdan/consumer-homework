@@ -1,0 +1,13 @@
+.tableContainer {
+    flex-grow: 1;
+    padding: 25px;
+}
+
+.resultsTable {
+    border: none;
+    width: 100%;
+}
+
+.tableCell {
+    border: 1px solid rgba(0,0,0,0.1);
+}
